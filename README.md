@@ -1,4 +1,5 @@
 Projekat: Vicomanija
+--------------------
 Opsi projekta: Korisnici pristupaju webstranici, na kojoj je pocetna stranica forma za registraciju. Korisnici se registruju, nakon cega dobiju poruku da je registracija uspesno zavrsena. Ukoliko se korisnik dva puta pokusa registrovat sa istim korisnickim podacima, dobit ce poruku o gresci. Nakon registracije, korisnik pristupa LOGIN formi, nakon koje unosi email i password. Zatim je preusmeren na stranicu u kojoj dobija pozdravnu poruku kao i polje za unos VICA/SALE. Nakon unosa je redirektovan na stranicu gde su prikazani svi vicevi od svih registrovanih korisnika. Korisnik koji je trenutno registrovan moze da vidi svoje korisnicke podatke, kao i vic koji je uneo klikom na link: Moj nalog. Ukoliko se korisnik odluci na glasanje potrebno je da klikne button glasanje nakon cega ce biti preusmeren na stranicu glasanje.php.
 *******************************
 PLAN PROJEKTA
